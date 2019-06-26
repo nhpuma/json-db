@@ -1,0 +1,29 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "title": "Esto es un título",
+            "image": "https://japaneselevelup.com/wp-content/uploads/2013/10/Perfume+jl.png",
+            "price": 120,
+            "profesor": "Nielsen Puma"
+          },{
+            "id": 2,
+            "title": "Perfume JPOP",
+            "image": "https://www.billboard.com/files/styles/article_main_image/public/media/perfume-2017-billboard-1548.jpg",
+            "price": 90,
+            "profesor": "Roberto Jara"
+          },{
+            "id": 3,
+            "title": "Esto es un título",
+            "image": "https://japaneselevelup.com/wp-content/uploads/2013/10/Perfume+jl.png",
+            "price": 150,
+            "profesor": "Martín Pérez"
+          },{
+            "id": 4,
+            "title": "Perfume JPOP",
+            "image": "https://www.billboard.com/files/styles/article_main_image/public/media/perfume-2017-billboard-1548.jpg",
+            "price": 45,
+            "profesor": "Judith Grames"
+          }
+    ]
+}
